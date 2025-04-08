@@ -58,3 +58,6 @@
 ### 📊 GitHub Stats 📊
 
 ![Sangheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=groth1percent&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groth1percent)](https://github.com/anuraghazra/github-readme-stats)
+
