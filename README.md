@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <b>🛠️ Tech Stack 🛠️</b>
+  <h3><b>🛠️ Tech Stack 🛠️</b></h3>
 </p>
 
 <p align="center">
