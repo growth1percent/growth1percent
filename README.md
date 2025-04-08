@@ -2,7 +2,7 @@
 
 ---
 <div align="center">
-  <b style="font-size: 2em;">🛠️ Tech Stack 🛠️</b>
+  <b style="font-size: 5em;">🛠️ Tech Stack 🛠️</b>
 </div>
 
 <p align="center">
