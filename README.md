@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Github%20%F0%9F%A4%97)
 
----
+-
 <div align="center">
   <h1><b>🛠️ Tech Stack 🛠️</b></h1>
 </div>
