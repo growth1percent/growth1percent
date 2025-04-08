@@ -1,10 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Github%20%F0%9F%A4%97)
 
 ---
-
+<p align="center">
 ### 🛠️ Tech Stack 🛠️
+</p>
 
+<p align="center">
 #### 💡 Used as the main:
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -12,7 +15,9 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 </p>
 
+<p align="center">
 #### 💡 Used at least once:
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -25,8 +30,9 @@
 </p>
 
 ---
-
+<p align="center">
 ### ✏️ Studying ✏️
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/>
@@ -38,8 +44,9 @@
 </p>
 
 ---
-
+<p align="center">
 ### 🌈 Follow Me 🌈
+</p>
 
 <p align="center">
   <a href="mailto:ryrymel35@gmail.com">
@@ -48,8 +55,8 @@
 </p>
 
 ---
-
+<p align="center">
 ### 📊 GitHub Stats 📊
-
+</p>
 ![Sangheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=groth1percent&show_icons=true&theme=transparent)
 
