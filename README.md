@@ -2,9 +2,13 @@
 
 ---
 
-### 🛠️ Tech Stack 🛠️
+<p align="center">
+  ### 🛠️ Tech Stack 🛠️
+</p>
 
-#### 💡 Used as the main:
+<p align="center">
+  <h4>💡 Used as the main:</h4>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -12,7 +16,9 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 </p>
 
-#### 💡 Used at least once:
+<p align="center">
+  <h4>💡 Used at least once:</h4>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -26,7 +32,9 @@
 
 ---
 
-### ✏️ Studying ✏️
+<p align="center">
+  ### ✏️ Studying ✏️
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/>
@@ -39,7 +47,9 @@
 
 ---
 
-### 🌈 Follow Me 🌈
+<p align="center">
+  ### 🌈 Follow Me 🌈
+</p>
 
 <p align="center">
   <a href="mailto:ryrymel35@gmail.com">
@@ -52,5 +62,3 @@
 ### 📊 GitHub Stats 📊
 
 ![Sangheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=groth1percent&show_icons=true&theme=transparent)
-
-내 깃허브 리드미인데 다 마음에드는데 머리글들을 가운데 정렬해줘
