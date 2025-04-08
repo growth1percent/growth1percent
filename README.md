@@ -35,3 +35,5 @@
 <p align="center">
   <a href="mailto:ryrymel35@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ryrymel35@gmail.com"/></a>
 </p>
+
+![Sangheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=groth1percent&show_icons=true&theme=transparent)
