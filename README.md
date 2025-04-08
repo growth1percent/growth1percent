@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Grow%201%25%20every%20day%20%F0%9F%8C%B1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Grow%201%25%20every%20day%20%F0%9F%8C%B1)
 
 <h1 align="center">
   <b>🛠️ Tech Stack 🛠️</b>
@@ -57,7 +57,7 @@
 
 ### 📊 GitHub Stats 📊
 
-![Sangheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=groth1percent&show_icons=true&theme=transparent)
+![Sangheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=growth1percent&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groth1percent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=growth1percent)](https://github.com/anuraghazra/github-readme-stats)
 
