@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Github%20%F0%9F%A4%97)
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <p align="center">💡used as the main</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
