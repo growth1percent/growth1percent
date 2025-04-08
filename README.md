@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Grow%201%25%20every%20day%20%F0%9F%8C%B1)
-
 <h1 align="center">
   <b>🛠️ Tech Stack 🛠️</b>
 </h1>
