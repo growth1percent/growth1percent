@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </p>
 
----
 <h1 align="center">
   <b>✏️ Studying ✏️</b>
 </h1>
@@ -43,7 +42,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
----
 <h1 align="center">
   <b>🌈 Follow Me 🌈</b>
 </h1>
