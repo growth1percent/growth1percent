@@ -2,9 +2,9 @@
 
 ---
 
-<p align="center">
-  <h3><b>🛠️ Tech Stack 🛠️</b></h3>
-</p>
+<h3 align="center">
+  <b>🛠️ Tech Stack 🛠️</b>
+</h3>
 
 <p align="center">
   <b>💡 Used as the main:</b>
@@ -32,9 +32,9 @@
 
 ---
 
-<p align="center">
+<h3 align="center">
   <b>✏️ Studying ✏️</b>
-</p>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/>
@@ -47,9 +47,9 @@
 
 ---
 
-<p align="center">
+<h3 align="center">
   <b>🌈 Follow Me 🌈</b>
-</p>
+</h3>
 
 <p align="center">
   <a href="mailto:ryrymel35@gmail.com">
