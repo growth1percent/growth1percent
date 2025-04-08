@@ -3,11 +3,11 @@
 ---
 
 <p align="center">
-  ### 🛠️ Tech Stack 🛠️
+  <b>🛠️ Tech Stack 🛠️</b>
 </p>
 
 <p align="center">
-  <h4>💡 Used as the main:</h4>
+  <b>💡 Used as the main:</b>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <h4>💡 Used at least once:</h4>
+  <b>💡 Used at least once:</b>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  ### ✏️ Studying ✏️
+  <b>✏️ Studying ✏️</b>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 ---
 
 <p align="center">
-  ### 🌈 Follow Me 🌈
+  <b>🌈 Follow Me 🌈</b>
 </p>
 
 <p align="center">
