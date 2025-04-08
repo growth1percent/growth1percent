@@ -19,6 +19,7 @@
   <br>
 </p>
 
+<br><br>
 <h3 align="center">✏️ Studying ✏️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/></a>&nbsp
@@ -29,6 +30,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
 </p>
 
+<br><br>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="mailto:ryrymel35@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ryrymel35@gmail.com"/></a>
