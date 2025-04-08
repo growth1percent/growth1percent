@@ -2,7 +2,7 @@
 
 ---
 
-<h1 style="text-align:center; border: none;"><b>🛠️ Tech Stack 🛠️</b></h1>
+<h2 align="center"><b>🛠️ Tech Stack 🛠️</b></h2>
 
 <p align="center">
   <b>💡 Used as the main:</b>
