@@ -3,7 +3,7 @@
 <h1 align="center">
   <b>🛠️ Tech Stack 🛠️</b>
 </h1>
-
+<br>
 <p align="center">
   <b>💡 Used as the main:</b>
 </p>
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 </p>
-
+<br>
 <p align="center">
   <b>💡 Used at least once:</b>
 </p>
@@ -33,7 +33,7 @@
 <h1 align="center">
   <b>✏️ Studying ✏️</b>
 </h1>
-
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
@@ -48,7 +48,7 @@
 <h1 align="center">
   <b>🌈 Follow Me 🌈</b>
 </h1>
-
+<br>
 <p align="center">
   <a href="mailto:ryrymel35@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
