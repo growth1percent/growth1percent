@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Github%20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=1.1%5E365%20%3D%2010466.5%20%F0%9F%A4%97)
 
 <h1 align="center">
   <b>🛠️ Tech Stack 🛠️</b>
