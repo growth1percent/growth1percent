@@ -48,6 +48,10 @@
 </h1>
 <br>
 <p align="center">
+  <!-- Velog Badge -->
+  <a href="https://velog.io/@heon-blog">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+  </a>
   <a href="mailto:ryrymel35@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
