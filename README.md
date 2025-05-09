@@ -57,12 +57,11 @@
   </a>
 </p>
 
-<h1 align="center">
-  <b>Solved.ac</b>
-</h1>
-<p align="center">
+<div align="center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryrymel35)](https://solved.ac/ryrymel35/)
-</p>
+
+</div>
 
 ### 📊 GitHub Stats 📊
 
