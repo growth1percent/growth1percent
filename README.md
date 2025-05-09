@@ -61,5 +61,5 @@
 
 ![Sangheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=growth1percent&show_icons=true&theme=transparent)
 <br>
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryrymel35)](https://solved.ac/ryrymel35/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryrymel35)](https://solved.ac/ryrymel35/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=growth1percent&layout=compact)
