@@ -13,8 +13,6 @@
 </p>
 <br>
 
-<br><br>
-
 <h1 align="center">
   <b> Studying </b>
 </h1>
