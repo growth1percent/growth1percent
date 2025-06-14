@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>🛠️ Tech Stack 🛠️</b>
+  <b> Tech Stack </b>
 </h1>
 <br>
 <p align="center">
@@ -29,7 +29,7 @@
 <br><br>
 
 <h1 align="center">
-  <b>✏️ Studying ✏️</b>
+  <b> Studying </b>
 </h1>
 <br>
 <p align="center">
