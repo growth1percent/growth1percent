@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  <b>🌱 Currently Learning</b>
+  <b>Studying</b>
 </p>
 
 <p align="center">
