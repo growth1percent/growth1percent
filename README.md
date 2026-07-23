@@ -26,8 +26,6 @@
   </br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"/>
-  </br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff"/>
 </p>
 
 <br>
