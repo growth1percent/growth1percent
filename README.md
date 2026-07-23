@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  Computer Science graduate with experience in software development and data analysis, </br>
-  currently exploring <b>Equipment Control Software and Automation</b>.
+  Computer Science graduate with experience in software development and data analysis <br>
+  Currently preparing for <p>Equipment Control Software Engineering</p>
 </p>
 
 <br>
@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"/>
 </p>
+
+<br>
 
 <p align="center">
   <b>Studying</b>
