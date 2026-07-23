@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  <b>Studying</b>
+  <b>📝 Studying</b>
 </p>
 
 <p align="center">
