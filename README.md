@@ -38,8 +38,7 @@
 
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
 </p>
 
 <br><br>
