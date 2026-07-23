@@ -28,13 +28,9 @@
   <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"/>
 </p>
 
-<br>
-
-<h1 align="center">
+<p align="center">
   <b>Studying</b>
-</h1>
-
-<br>
+</p>
 
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
