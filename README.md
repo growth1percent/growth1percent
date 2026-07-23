@@ -4,7 +4,7 @@
 
 <p align="center">
   Computer Science graduate with experience in software development and data analysis, </br>
-  currently exploring **Equipment Control Software and Automation**.
+  currently exploring <b>Equipment Control Software and Automation</b>.
 </p>
 
 <br>
