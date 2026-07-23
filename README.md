@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Computer Science graduate with experience in software development and data analysis <br>
+  Computer Science graduate with experience in software development and data analysis </br>
   Currently preparing for <p>Equipment Control Software Engineering</p>
 </p>
 
@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  <b>Studying</b>
+  <b>🌱 Currently Learning</b>
 </p>
 
 <p align="center">
