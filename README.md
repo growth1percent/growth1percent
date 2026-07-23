@@ -21,11 +21,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 <br>
@@ -38,11 +35,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TCP%2FIP-0078D4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Serial%20Communication-555555?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Modbus-4051B5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SECS%2FGEM-5C6BC0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square"/>
 </p>
 
 <br><br>
