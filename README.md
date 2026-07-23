@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  Computer Science graduate with experience in software development and data analysis,<br>
-  currently exploring <b>Equipment Control Software and Automation</b>
+  Computer Science graduate with experience in software development and data analysis, </br>
+  currently exploring **Equipment Control Software and Automation**.
 </p>
 
 <br>
@@ -28,13 +28,12 @@
 <br>
 
 <h1 align="center">
-  <b>Currently Studying</b>
+  <b>Studying</b>
 </h1>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square"/>
   <img src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square"/>
