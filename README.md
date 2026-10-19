@@ -2,8 +2,6 @@
   👋 Hi, I'm Sangheon
 </h1>
 
-<h2 align="center">About Me</h2>
-
 <div align="center">
 
   💼 Software Engineer at <b>Amkor Technology Korea</b><br>
