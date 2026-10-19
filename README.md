@@ -5,8 +5,8 @@
 <div align="center">
   <br>
 
-  💼 IT Test Engineer at <b>Amkor Technology Korea</b><br>
-  🎓 B.S. in Computer Science, <b>Hanyang University</b>
+  🏢 IT Test Engineer | <b>Amkor Technology Korea</b><br>
+  🎓 B.S. in Computer Science | <b>Hanyang University</b>
 
   <br>
 
