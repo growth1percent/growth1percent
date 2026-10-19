@@ -3,6 +3,7 @@
 </h1>
 
 <div align="center">
+  <br>
 
   💼 Software Engineer at <b>Amkor Technology Korea</b><br>
   🎓 B.S. in Computer Science, <b>Hanyang University</b>
