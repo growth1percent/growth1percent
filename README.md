@@ -2,10 +2,12 @@
   👋 Hi, I'm Sangheon
 </h1>
 
-<p align="center">
-  Computer Science graduate with experience in software development and data analysis, </br>
-  interested in <b>Industrial Automation and Equipment Control Software Engineering</b>
-</p>
+### About Me
+
+💼 Software Engineer at **Amkor Technology**  
+🎓 B.S. in Computer Science, **Hanyang University ERICA**
+
+Interested in **Semiconductor Test Systems, Industrial Automation, and Software Engineering**.
 
 <br>
 
