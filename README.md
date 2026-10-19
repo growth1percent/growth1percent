@@ -2,12 +2,19 @@
   👋 Hi, I'm Sangheon
 </h1>
 
-### About Me
+<h2 align="center">About Me</h2>
 
-💼 Software Engineer at **Amkor Technology Korea**  
-🎓 B.S. in Computer Science, **Hanyang University**
+<div align="center">
 
-Interested in **Semiconductor Test Systems, Industrial Automation, and Software Engineering**.
+  💼 Software Engineer at <b>Amkor Technology Korea</b><br>
+  🎓 B.S. in Computer Science, <b>Hanyang University</b>
+
+  <br>
+
+  Interested in <b>Semiconductor Test Systems,<br>
+  Industrial Automation, and Software Engineering</b>.
+
+</div>
 
 <br>
 
