@@ -4,8 +4,8 @@
 
 ### About Me
 
-💼 Software Engineer at **Amkor Technology**  
-🎓 B.S. in Computer Science, **Hanyang University ERICA**
+💼 Software Engineer at **Amkor Technology Korea**  
+🎓 B.S. in Computer Science, **Hanyang University**
 
 Interested in **Semiconductor Test Systems, Industrial Automation, and Software Engineering**.
 
